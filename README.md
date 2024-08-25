@@ -20,7 +20,7 @@
 
 * I share my personal projects and progress in this exciting field! 😃
 * My mission is to continue learning and improving with the goal of creating software that meets people's needs! 🎯
-* Recently graduated in Web Application Development, excited to start my career in Ireland and improve my English! 🍀
+* Seeking an opportunity to grow professionally and learn from great programmers! 💪
 <br><br>
 <h2> 
   Skills
@@ -33,15 +33,10 @@
 </div>
 </br>
 <div>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src ="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"> 
   <img src ="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" alt="Html">
-  <img src ="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS">  
-  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">  
-</div>
-</br>
-<div>
-  <img src ="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
-  <img src ="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">  
-  <img src ="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">  
 </div>
 </br>
 <div>
